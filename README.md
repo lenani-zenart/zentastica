@@ -1,4 +1,4 @@
 # ZENTASTICA
 Proiect personal Lenani Art SRL
 
-[Zentastica](https://zentastica.lenani.ro)
+[Zentastica](https://zentasticarts.ro)
